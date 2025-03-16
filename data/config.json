@@ -1,0 +1,14 @@
+{
+    "project": "CPPENC",
+    "version": "1.0.0",
+    "author": "Phantom",
+    "encryption": {
+        "default_algorithm": "xor",
+        "key_length": 16,
+        "enable_custom_hashing": true
+    },
+    "files": {
+        "output_file": "bin.txt",
+        "log_file": "logs.txt"
+    }
+}
