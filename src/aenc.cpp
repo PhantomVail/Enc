@@ -1,3 +1,6 @@
+// All Copyrights to PhantomVail https://github.com/PhantomVail
+// Licensed Under Apache
+
 #include "../include/lib.h"
 #include "../include/util.h"
 #include "../include/enc.h"
